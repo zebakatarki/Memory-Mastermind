@@ -40,8 +40,8 @@ body{
 }
 
 #highscore{
-    height: 80px;
-    width:280px;
+    height: 75px;
+    width:270px;
     border: 8px solid black;
     margin: auto;
     font-size: 26px;
