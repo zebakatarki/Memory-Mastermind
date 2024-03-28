@@ -24,7 +24,7 @@ body{
 }
 
 .green{
-    background-color: #386641;
+    background-color: #007200;
 }
 
 .blue{
@@ -36,17 +36,18 @@ body{
 }
 
 .userflash{
-    background-color: green;
+    background-color: #a7c957;
 }
 
 #highscore{
-    height: 70px;
-    width:250px;
-    border: 10px solid black;
+    height: 80px;
+    width:280px;
+    border: 8px solid black;
     margin: auto;
     font-size: 26px;
     font-weight: bold;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    background-color: #e76519;
+    background-color: #00a5cf;
+    border-radius: 35%;
 }
